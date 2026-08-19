@@ -1,0 +1,470 @@
+Brand,Bike Name,Model Year,Price,Location,Owners,Kilometers Run,Listing Type
+KTM,Duke 200 ABS,2025,"2,10,000","Tiruchirappalli, Tamil Nadu",1.0,5000.0,Basic
+Bicycle,Hercules,2026,"4,800","Hyderabad, Telangana",1.0,,Basic
+KTM,250 Adventure 2025,2026,"2,75,000",Tamil Nadu,1.0,1700.0,Basic
+Keeway,K-Light 250V,2022,"2,50,000","Chennai, Tamil Nadu",1.0,15000.0,Basic
+Royal Enfield,Meteor 350 Stellar,2022,"1,75,000","Dehradun, Utarakhand",1.0,32000.0,Basic
+Honda,CB200X,2023,"1,20,000","North 24 Parganas, West Bengal",1.0,10000.0,Basic
+"Bajaj,",2017 Model,2017,"70,000","Haripad, Alappuzha, Kerala",,36000.0,Basic
+Royal Enfield,Super Meteor 650,2024,"3,90,000","Bangalore, Karnataka",1.0,21000.0,Basic
+Hero,Xtreme 125R,2024,"70,000","Noida, Uttar Pradesh",1.0,4500.0,Basic
+Royal Enfield,Super Meteor 650,2024,"4,85,000","Karkala, Udupi, Karnataka",1.0,10000.0,Basic
+Kawasaki,Ninja 300R,2026,"3,00,000","Gorakhpur, Uttar Pradesh",1.0,1200.0,Basic
+Bajaj,Pulsar 150 Neon,2019,"35,000","Barasat, North 24 Parganas, West Bengal",,52539.0,Basic
+Yamaha,Alpha,2016,"35,000","Whitefield, Bangalore, Karnataka",1.0,10500.0,Basic
+Yamaha,YZF R15 V3 BS6,2020,"80,000","Dwarka, South West Delhi, Delhi",1.0,13000.0,Basic
+Honda,Activa 6G Std,2020,,"Kolkata, West Bengal Finance Available View More Details",1.0,,Basic
+Bicycle,Schnell,2017,"4,500","Rangareddy, Telangana",1.0,,Basic
+Honda,Hness CB350 DLX Pro 2025,2025,"2,25,000","Hadapsar, Pune, Maharashtra",1.0,700.0,Basic
+Hero,Xpulse 200 4V 2023 Edition,2023,"94,000","Hyderabad, Telangana",1.0,42500.0,Basic
+TVS,Apache RR 310 BTO,2023,"2,30,000","Howrah, West Bengal",1.0,2989.0,Basic
+Royal Enfield,Classic 350,2016,"1,10,000","Jaipur, Rajasthan",1.0,8000.0,Basic
+Jawa,42 Dual Tone,2023,"1,60,000","Udaipur, Rajasthan",1.0,23000.0,Basic
+Royal Enfield,Super Meteor 650,2025,"3,95,000","Mayur Vihar, East Delhi, Delhi",1.0,4700.0,Basic
+KTM,RC 200 2020,2020,"1,40,000","Dadar, Mumbai, Maharashtra",2.0,10100.0,Basic
+Odysse,Evoqis,2023,"80,000","Ahmedabad, Gujarat",1.0,12000.0,Basic
+KTM,RC 200 2022,2022,"1,80,000","Kanchipuram, Tamil Nadu",1.0,7000.0,Basic
+Royal Enfield,Meteor 350 Fireball,2021,"1,60,000","Sholinganallur, Chennai, Tamil Nadu",1.0,7200.0,Basic
+Bajaj,Avenger Street 220,2016,"45,000","Gurgaon, Haryana",1.0,31414.0,Basic
+Yamaha,FZ-S FI Ver 4.0,2024,"1,11,000","Banashankari, Bangalore, Karnataka",1.0,12600.0,Basic
+Ampere,Magnus Ex,2023,"95,000","KR Puram, Bangalore, Karnataka",1.0,2031.0,Basic
+EMotorad,Doodle,2026,"50,000","Whitefield, Bangalore, Karnataka",1.0,,Basic
+Ola,S1 Pro,2022,"52,000","Nelamangala, Bangalore, Karnataka",1.0,63000.0,Basic
+Suzuki,Gixxer SF Moto GP,2018,,"Chembur, Mumbai, Maharashtra Finance Available View More Details",1.0,29766.0,Basic
+Triumph,Scrambler 400 X,2025,"2,70,000","North Delhi, Delhi",1.0,2600.0,Basic
+BMW,G 310 RR,2025,"3,30,000","Ramnagar, Nainital, Utarakhand",1.0,3000.0,Basic
+KTM,Duke 390,2017,"1,50,000","Thane, Maharashtra",1.0,19500.0,Basic
+Royal Enfield,Classic Desert Storm,2012,"90,000","Pune, Maharashtra",1.0,22000.0,Basic
+Yamaha,Aerox 155,2023,"1,25,000","Mylapore, Chennai, Tamil Nadu",1.0,20000.0,Basic
+Ola,S1 Pro,2024,"75,000","Bangalore, Karnataka",1.0,17000.0,Basic
+Jawa,42 Bobber Black Mirror,2023,"1,95,000","Bhubaneshwar, Orissa",1.0,14000.0,Basic
+Bajaj,Avenger Street 220,2018,"30,000","Barasat, North 24 Parganas, West Bengal",1.0,7000.0,Basic
+Honda,NX500,,"6,00,000","Bangalore, Karnataka",1.0,12800.0,Premium
+Honda,CB Unicorn,2010,"55,000","Nashik, Maharashtra",1.0,76125.0,Premium
+Honda,Activa 6G,2022,"59,000","Ahmednagar, Maharashtra",1.0,48500.0,Premium
+Bajaj,XCD 125 DTS-Si,2008,"30,000","Kolkata, West Bengal",1.0,35000.0,Premium
+Yamaha,YZF R15 V2,2013,"45,000","Yelahanka, Bangalore, Karnataka",1.0,59147.0,Premium
+Royal Enfield,Bullet Standard 350,1994,"1,60,000","North Kannada, Karnataka",2.0,19000.0,Premium
+Royal Enfield,Classic 500,,"1,00,000","Greater Noida, Gautam Buddha Nagar, Uttar Pradesh",1.0,75000.0,Premium
+Royal Enfield,Super meteor 650,2025,"3,60,000","Dildarnagar, Ghazipur, Uttar Pradesh",1.0,11000.0,Premium
+TVS,Ronin SS,2026,"1,40,000","Bandlaguda, Hyderabad, Telangana",1.0,399.0,Premium
+Ola,S1 Pro,2022,"45,000","Indore, Madhya Pradesh",1.0,43000.0,Basic
+Aprilia,Tuono 457,2025,"4,00,000","Guindy, Chennai, Tamil Nadu",1.0,1500.0,Basic
+Honda,Hness CB350 DLX,2023,"1,60,000","Bangalore, Karnataka",1.0,34000.0,Basic
+Suzuki,Intruder 150 FI,2022,"72,500","Bangalore, Karnataka",1.0,18000.0,Basic
+Royal Enfield,Classic Desert Storm,2023,"2,19,999","Navi Mumbai, Maharashtra",1.0,22500.0,Basic
+Royal Enfield,Scram 411,2023,"1,65,000","Ghaziabad, Uttar Pradesh",1.0,10500.0,Basic
+Bajaj,Pulsar 200 NS,2018,"1,00,000","Gulbarga, Karnataka",,53000.0,Basic
+Bajaj,Discover 150 F,2014,"35,000","Satna, Madhya Pradesh",1.0,50000.0,Basic
+Bajaj,Pulsar NS 160 BS6,2021,"60,000","Mira-Bhayandar, Thane, Maharashtra",1.0,10000.0,Basic
+Royal Enfield,Bullet 350 ES,2026,"1,80,000","Patna, Bihar",1.0,200.0,Basic
+Triumph,Speed 400,2026,"2,70,000","Thane, Maharashtra",1.0,3700.0,Basic
+Bajaj,Pulsar 220 DTSFi,2018,"65,000","Surat, Gujarat",1.0,23600.0,Basic
+Bajaj,Avenger Street 220,2019,"75,000","Gurgaon, Haryana",1.0,8500.0,Basic
+Jawa,Java 42 fj,2025,"2,50,000","Bangalore, Karnataka",1.0,27000.0,Basic
+Revolt,RV 400,2022,"65,000","Chennai, Tamil Nadu",1.0,19000.0,Basic
+Yamaha,FZ16,2015,"48,000","Bangalore, Karnataka",1.0,35000.0,Basic
+Bajaj,Pulsar N160,2022,"70,000","Nanded, Maharashtra",1.0,44000.0,Basic
+Bajaj,Pulsar 220F,2017,"55,000","Pune, Maharashtra",2.0,70000.0,Basic
+Bajaj,V15,2017,"35,000","Mira-Bhayandar, Thane, Maharashtra",1.0,27500.0,Basic
+Hero,Splendor iSmart,2015,"40,000","Secunderabad, Hyderabad, Telangana",1.0,42000.0,Basic
+Bajaj,Pulsar 150 Neon,2019,"35,000","Barasat, North 24 Parganas, West Bengal",,52539.0,Premium
+Yamaha,Alpha,2016,"35,000","Whitefield, Bangalore, Karnataka",1.0,10500.0,Premium
+Yamaha,YZF R15 V3 BS6,2020,"80,000","Dwarka, South West Delhi, Delhi",1.0,13000.0,Premium
+Okinawa,R30,2021,"34,000","Jhunjhunu, Rajasthan",1.0,2380.0,Premium
+Bajaj,V15,2017,"30,000","Lucknow, Uttar Pradesh",1.0,63000.0,Premium
+Honda,Activa 6G Std,2020,,"Kolkata, West Bengal Finance Available View More Details",1.0,,Premium
+Bicycle,Schnell,2017,"4,500","Rangareddy, Telangana",1.0,,Premium
+Honda,CB300F Deluxe Pro,2023,"1,50,000","Pendurthi, Visakhapatnam, Andhra Pradesh",1.0,22299.0,Premium
+Honda,Hness CB350 DLX Pro 2025,2025,"2,25,000","Hadapsar, Pune, Maharashtra",1.0,700.0,Premium
+Hero,Xpulse 200 4V 2023 Edition,2023,"94,000","Hyderabad, Telangana",1.0,42500.0,Premium
+Honda,Grazia 125 BS6,2021,"75,000","Kumta, Uttara Kannada, Karnataka",1.0,32000.0,Premium
+TVS,Apache RR 310 BTO,2023,"2,30,000","Howrah, West Bengal",1.0,2989.0,Premium
+Royal Enfield,Vintage Bullet,2007,"1,00,000","Sholinganallur, Chennai, Tamil Nadu",1.0,25000.0,Premium
+TVS,NTORQ 125,2022,"65,000","Khar, Mumbai, Maharashtra",1.0,,Premium
+Royal Enfield,Classic 350,2016,"1,10,000","Jaipur, Rajasthan",1.0,8000.0,Premium
+Jawa,42 Dual Tone,2023,"1,60,000","Udaipur, Rajasthan",1.0,23000.0,Premium
+Ola,S1 Pro,2023,"1,00,000","BTM Layout, Bangalore, Karnataka",1.0,24592.0,Premium
+Yezdi,Roadster Dark,2022,"1,40,000","Bhimavaram, West Godavari, Andhra Pradesh",1.0,8700.0,Premium
+Royal Enfield,Super Meteor 650,2025,"3,95,000","Mayur Vihar, East Delhi, Delhi",1.0,4700.0,Premium
+TVS,Apache RTR 200 4V,2017,"77,000","HSR Layout, Bangalore, Karnataka",1.0,22600.0,Premium
+Yamaha,YZF R15 S V3.0,2020,"1,20,000","Lucknow, Uttar Pradesh",1.0,60000.0,Basic
+Honda,Shine 125 Drum,2012,"30,000","Patna, Bihar",1.0,24000.0,Basic
+Hero,XPulse 200,2022,"90,000","Pimpri-Chinchwad, Maharashtra",1.0,23000.0,Basic
+Jawa,Perak BS6,2022,"2,00,000","Karol Bagh, Central Delhi, Delhi",1.0,15000.0,Basic
+Jawa,forty two,2019,"80,000","Panipat, Haryana",1.0,32000.0,Basic
+Ola,S1 X Gen 3 4kWh,2025,"95,000","Ratlam, Madhya Pradesh",1.0,8000.0,Basic
+Hero,Pleasure,2012,"30,000","Pune, Maharashtra",1.0,,Basic
+Bajaj,Avenger Street 220,2017,"50,000","New Delhi, Delhi",1.0,15000.0,Basic
+Honda,CB Shine,2018,"40,000","Mathura, Uttar Pradesh",1.0,71115.0,Basic
+Honda,Livo Drum,2017,"35,000","Kolkata, West Bengal",1.0,9900.0,Basic
+Honda,Hornet 2.0,2020,"1,00,000","Mumbai, Maharashtra",1.0,33450.0,Basic
+Royal Enfield,Continental GT 650,2024,"3,50,000","Agra, Uttar Pradesh",1.0,5000.0,Basic
+Honda,CB Unicorn 160,2016,"30,000","Tambaram, Chengalpattu, Tamil Nadu",1.0,29000.0,Basic
+Hero,Pleasure,2018,"25,000","Kolkata, West Bengal",1.0,18000.0,Basic
+TVS,iQube S,2023,"95,000","Ghaziabad, Uttar Pradesh",1.0,20000.0,Basic
+Bajaj,Dominar 400,2019,"1,30,000","Mumbai, Maharashtra",1.0,35000.0,Basic
+TVS,Raider 125,2023,"80,000","Barh, Patna, Bihar",1.0,30000.0,Basic
+Oben,EV Rorr EZ Sigma,2025,"1,15,000","Bellandur, Bangalore, Karnataka",1.0,1200.0,Basic
+Bajaj,Pulsar F250,2021,,"Hyderabad, Telangana Finance Available View More Details",1.0,17500.0,Basic
+KTM,Duke 250,2022,"2,20,000","Hosur, Tamil Nadu",1.0,20000.0,Basic
+KTM,RC 200 2020,2020,"1,40,000","Dadar, Mumbai, Maharashtra",2.0,10100.0,Premium
+Yamaha,R15 V4,2023,"1,85,000","Indiranagar, Bangalore, Karnataka",1.0,30000.0,Premium
+Odysse,Evoqis,2023,"80,000","Ahmedabad, Gujarat",1.0,12000.0,Premium
+KTM,RC 200 2022,2022,"1,80,000","Kanchipuram, Tamil Nadu",1.0,7000.0,Premium
+Royal Enfield,Meteor 350 Fireball,2021,"1,60,000","Sholinganallur, Chennai, Tamil Nadu",1.0,7200.0,Premium
+Bajaj,Avenger Street 220,2016,"45,000","Gurgaon, Haryana",1.0,31414.0,Premium
+Yamaha,FZ-S FI Ver 4.0,2024,"1,11,000","Banashankari, Bangalore, Karnataka",1.0,12600.0,Premium
+Ampere,Magnus Ex,2023,"95,000","KR Puram, Bangalore, Karnataka",1.0,2031.0,Premium
+Royal Enfield,Classic 350,2015,"70,000","North West Delhi, Delhi",1.0,17700.0,Premium
+Honda,Aviator,2014,"34,500","Bangalore, Karnataka",1.0,21000.0,Premium
+EMotorad,Doodle,2026,"50,000","Whitefield, Bangalore, Karnataka",1.0,,Premium
+Ola,S1 Pro,2022,"52,000","Nelamangala, Bangalore, Karnataka",1.0,63000.0,Premium
+Suzuki,Gixxer SF Moto GP,2018,,"Chembur, Mumbai, Maharashtra Finance Available View More Details",1.0,29766.0,Premium
+Triumph,Scrambler 400 X,2025,"2,70,000","North Delhi, Delhi",1.0,2600.0,Premium
+TVS,Jupiter BS6,2017,"50,000","Solapur, Maharashtra",2.0,28500.0,Premium
+BMW,G 310 RR,2025,"3,30,000","Ramnagar, Nainital, Utarakhand",1.0,3000.0,Premium
+KTM,Duke 390,2017,"1,50,000","Thane, Maharashtra",1.0,19500.0,Premium
+Yamaha,Aerox 155 Version S,2024,"1,30,000","Chennai, Tamil Nadu",1.0,30000.0,Premium
+Yamaha,FZ25,2017,"60,000","Mohali, Punjab",2.0,40000.0,Premium
+Bajaj,Pulsar 125 Neon BS6,2022,"80,000","Konnagar, Hooghly, West Bengal",1.0,3000.0,Premium
+Hero,2023 HF Deluxe,2023,"58,000","Solapur, Maharashtra",1.0,15500.0,Basic
+Bajaj,Discover 125 ST,2013,"25,000","Boisar, Palghar, Maharashtra",1.0,24035.0,Basic
+TVS,Apache RTR 200 Fi 4V,2019,"55,000","Vadodara, Gujarat",1.0,32000.0,Basic
+Bajaj,Platina 100 ES BS6,2020,"45,000","Dahisar, Mumbai, Maharashtra",1.0,36545.0,Basic
+Yamaha,YZF R15 V3 BS6,2021,"1,70,000","Siruguppa, Bellary, Karnataka",1.0,35000.0,Basic
+Yamaha,R15M,2023,"1,75,000","Chengalpattu, Tamil Nadu",1.0,15000.0,Basic
+Yamaha,MT-15,2021,"1,20,000","Mayur Vihar, East Delhi, Delhi",1.0,20000.0,Basic
+Suzuki,Access,2014,"20,000","Andheri West, Mumbai, Maharashtra",1.0,30000.0,Basic
+Bajaj,Pulsar RS 200,2015,"60,000","Baikunthpur, Rewa, Madhya Pradesh",2.0,32000.0,Basic
+Honda,CB200X,2023,"1,39,000","Tiruppuvanam, Sivaganga, Tamil Nadu",1.0,9250.0,Basic
+Hero,Splendor Plus,2021,"48,000","West Delhi, Delhi",1.0,16500.0,Basic
+Royal Enfield,Bullet Electra,2016,"82,000","Medchal, Telangana",2.0,80100.0,Basic
+Honda,Hness CB350 DLX Pro,2021,"1,50,000","Yelahanka, Bangalore, Karnataka",1.0,37000.0,Basic
+Bajaj,Avenger Street 220,2017,"39,999","Chennai, Tamil Nadu",,40000.0,Basic
+Kawasaki,Ninja ZX-10R 2025,2025,"20,00,000","Hyderabad, Telangana",1.0,3000.0,Basic
+Bajaj,Pulsar 135LS,2013,"28,000","Noida, Uttar Pradesh",1.0,19000.0,Basic
+Royal Enfield,Classic 500,2016,,"Pune, Maharashtra Finance Available View More Details",1.0,,Basic
+Ola,S1 Pro,2024,"1,00,000","Marathahalli, Bangalore, Karnataka",1.0,10000.0,Basic
+Royal Enfield,Shotgun 650,2025,"4,20,000","Ghaziabad, Uttar Pradesh",1.0,5000.0,Basic
+Jawa,42 Dual Channel ABS AllStar Black,2022,"1,20,000","Mumbai, Maharashtra",1.0,28000.0,Basic
+Bajaj,Pulsar RS 200 BS6,2023,"1,15,000","Chennai, Tamil Nadu",1.0,36000.0,Premium
+Royal Enfield,Classic Desert Storm,2012,"90,000","Pune, Maharashtra",1.0,22000.0,Premium
+Yamaha,Aerox 155,2023,"1,25,000","Mylapore, Chennai, Tamil Nadu",1.0,20000.0,Premium
+Royal Enfield,Continental GT 650,2025,"3,85,000","Saket, South Delhi, Delhi",1.0,2500.0,Premium
+Ola,S1 Pro,2024,"75,000","Bangalore, Karnataka",1.0,17000.0,Premium
+Jawa,42 Bobber Black Mirror,2023,"1,95,000","Bhubaneshwar, Orissa",1.0,14000.0,Premium
+Bajaj,Avenger Street 220,2018,"30,000","Barasat, North 24 Parganas, West Bengal",1.0,7000.0,Premium
+Royal Enfield,Guerrilla,2026,"2,75,000","Bangalore, Karnataka",1.0,2600.0,Premium
+Suzuki,Gixxer 250 BS6,2021,"1,10,000","Cuttack, Orissa",1.0,37000.0,Premium
+KTM,Duke 200,2024,"1,55,000","Fatehpur, Uttar Pradesh",1.0,19000.0,Premium
+Yamaha,FZ FI V3 BS6,2022,"85,000","Parel, Mumbai, Maharashtra",1.0,15380.0,Premium
+Ola,S1 Pro,2022,"28,000","Pune, Maharashtra",1.0,33000.0,Premium
+Jawa,350,2026,"1,90,000","Greater Noida, Gautam Buddha Nagar, Uttar Pradesh",1.0,310.0,Premium
+Hero,Xoom 160 ZX,2026,"1,80,000","Bangalore, Karnataka",1.0,156.0,Premium
+Honda,Unicorn,2018,"45,000","Kolkata, West Bengal",1.0,17000.0,Premium
+Yamaha,YZF R15 S,2009,"40,000","Kolkata, West Bengal",1.0,50000.0,Premium
+Hero,Destini 125 Xtec,2020,"50,000","Bardhaman, West Bengal",1.0,14000.0,Premium
+Honda,Activa 3G,2015,"30,000","Vadodara, Gujarat",1.0,7960.0,Premium
+Yezdi,Roadster Dual Tone,2022,"1,20,000","Chanchal, Malda, West Bengal",1.0,40000.0,Premium
+TVS,Apache RTR 200 4V 2020,2020,"90,000","Mayur Vihar, East Delhi, Delhi",1.0,27000.0,Premium
+Hero,Splendor Plus IBS i3s,2023,"70,000","Sholinganallur, Chennai, Tamil Nadu",1.0,24000.0,Basic
+Hero,Ignitor,2015,"40,000","Parel, Mumbai, Maharashtra",1.0,53070.0,Basic
+Royal Enfield,Classic 350,2016,"1,35,000","Mumbai, Maharashtra",1.0,33000.0,Basic
+Hero,Electric Photon LP,2022,"42,000","Rajkot, Gujarat",1.0,16400.0,Basic
+Bajaj,Pulsar 150,2017,"70,000","Golconda, Hyderabad, Telangana",1.0,72700.0,Basic
+Yamaha,YZF R15 V3,2019,"55,000","Noida, Uttar Pradesh",1.0,13160.0,Basic
+Yamaha,FZ25,2017,"90,000","Musheerabad, Hyderabad, Telangana",1.0,20000.0,Basic
+Green,Sunny,2024,"25,000","Kadayanallur, Tenkasi, Tamil Nadu",1.0,,Basic
+TVS,Jupiter 125,,"80,000","Nelamangala, Bangalore, Karnataka",1.0,18350.0,Basic
+Honda,Activa,2014,"30,000","BTM Layout, Bangalore, Karnataka",1.0,10800.0,Basic
+KTM,Duke 200,2017,"1,10,000","Guntur, Andhra Pradesh",1.0,62000.0,Basic
+Aprilia,SR 160,2022,"85,000","KR Puram, Bangalore, Karnataka",1.0,30000.0,Basic
+Royal Enfield,Thunderbird,2013,"70,000","Kolkata, West Bengal",2.0,37500.0,Basic
+Royal Enfield,Classic Signals Stormrider Sand,2024,"2,25,000","Pandharpur, Solapur, Maharashtra",1.0,13500.0,Basic
+Honda,Aviator,2011,"15,500","Zirakpur, Sahibzada Ajit Singh Nagar, Punjab",1.0,82000.0,Basic
+Yamaha,SZ-RR,2015,"32,000","Gurgaon, Haryana",1.0,60000.0,Basic
+Yezdi,Roadster,2023,"1,35,000","Egmore, Chennai, Tamil Nadu",1.0,6100.0,Basic
+Oben,EV Rorr EZ,2025,"95,000","Electronic City, Bangalore, Karnataka",1.0,7025.0,Basic
+Jawa,forty two,2019,"1,20,000","Bangalore, Karnataka",2.0,25000.0,Basic
+Suzuki,Gixxer SF BS6,2023,"1,30,000","Chhatrapati Sambhajinagar, Maharashtra",1.0,19200.0,Basic
+Hero,CD Deluxe,2010,"25,000","Alandur, Chennai, Tamil Nadu",1.0,35000.0,Premium
+Honda,Unicorn,2020,"78,000","Eluru, Andhra Pradesh",1.0,33000.0,Premium
+Yamaha,Aerox 155,2024,"1,40,000","Tambaram, Chengalpattu, Tamil Nadu",1.0,30000.0,Premium
+Royal Enfield,Classic 350 BS VI,2021,"1,50,000","Greater Noida, Uttar Pradesh",1.0,3000.0,Premium
+Suzuki,Gixxer 150,2016,"45,000","Pimpri-Chinchwad, Pune, Maharashtra",1.0,26000.0,Premium
+Jawa,forty two BS6,2020,"1,30,000","Dharwad, Karnataka",1.0,24000.0,Premium
+Hero,Xtreme 125R Dual Channel ABS,2025,"95,000","Agra, Uttar Pradesh",1.0,4500.0,Premium
+Royal Enfield,Meteor 350 Supernova,,"2,10,000","Mira-Bhayandar, Thane, Maharashtra",1.0,28000.0,Premium
+Honda,Aviator,2010,"35,000","Marathahalli, Bangalore, Karnataka",1.0,15000.0,Premium
+Bajaj,Avenger 220 DTS-i,2012,"26,000","Mathura, Uttar Pradesh",1.0,17000.0,Premium
+BMW,G 310 RR,2026,"3,20,000","Jalandhar, Punjab",1.0,500.0,Premium
+Royal Enfield,Classic 350,2015,"1,20,000","West Delhi, Delhi",1.0,28498.0,Premium
+Yamaha,R15M Monster Energy MotoGP Edition,2022,"1,75,000","Varanasi, Uttar Pradesh",1.0,22000.0,Premium
+Royal Enfield,Classic 350,2016,"1,00,000","Midnapore, West Medinipur, West Bengal",1.0,35000.0,Premium
+Honda,Activa 5G,2019,"52,000","HSR Layout, Bangalore, Karnataka",1.0,20150.0,Premium
+Honda,Activa 125,2019,"40,000","Ameenpur, Sangareddy, Telangana",1.0,13650.0,Premium
+Yamaha,FZ25,2019,"70,000","Raigad, Maharashtra",1.0,25000.0,Premium
+Royal Enfield,Classic 350,2013,"50,000","Ajmer, Rajasthan",1.0,15000.0,Premium
+Royal Enfield,Guerrilla 450 Flash,2026,"2,90,000","Jhunjhunu, Rajasthan",1.0,975.0,Premium
+Bajaj,Pulsar 150 DTSi,2012,"30,000","Bangalore, Karnataka",1.0,70000.0,Premium
+Royal Enfield,Classic,2020,"1,90,000","North 24 Parganas, West Bengal",1.0,90000.0,Basic
+Hero,Splendor Plus i3s Black and Accent,2025,"90,000","Hyderabad, Telangana",1.0,5800.0,Basic
+Triumph,Scrambler 400 XC,2025,"3,00,000","Chennai, Tamil Nadu",1.0,3500.0,Basic
+Suzuki,Avenis 125 Standard Edition,2023,"70,000","Koramangala, Bangalore, Karnataka",1.0,25000.0,Basic
+Ola,S1 Pro,2023,"60,000","Dahisar, Mumbai, Maharashtra",1.0,53000.0,Basic
+TVS,Apache RTR 160 4V,,"37,500","Periyakulam, Theni, Tamil Nadu",1.0,21000.0,Basic
+Bajaj,Discover 100T,2013,"10,000","Chennai, Tamil Nadu",1.0,35500.0,Basic
+Jawa,Jawa BS6,2021,"1,80,000","Bangalore, Karnataka",1.0,43000.0,Basic
+Hero,Destini 125 ZX,2025,,"Bellary, Karnataka Finance Available View More Details",1.0,1750.0,Basic
+UM,Renegade Commando,2017,"70,000","Indore, Madhya Pradesh",1.0,15000.0,Basic
+Triumph,Scrambler 400 X,2025,"2,75,000","Navi Mumbai, Maharashtra",1.0,3500.0,Basic
+Royal Enfield,Himalayan 450,2023,"2,75,000","Vadodara, Gujarat",1.0,18000.0,Basic
+Royal Enfield,Classic 350,2012,"75,000","Sholinganallur, Chennai, Tamil Nadu",1.0,10000.0,Basic
+TVS,NTORQ 125 Race XP,2022,"70,000","Sankrail, Howrah, West Bengal",1.0,40000.0,Basic
+KTM,RC 200,2016,"85,000","Hassan, Karnataka",2.0,45000.0,Basic
+Bajaj,Pulsar 220F,2016,"38,000","Ahmedabad, Gujarat",1.0,68000.0,Basic
+Hero,Karizma XMR,2023,"1,80,000","Cuddalore, Tamil Nadu",1.0,3450.0,Basic
+Ola,S1 Pro Gen2,2024,"80,000","Bhuj, Kachchh, Gujarat",1.0,30700.0,Basic
+Ola,S1,2022,"60,000","Anna Nagar, Chennai, Tamil Nadu",1.0,52000.0,Basic
+Yamaha,Fazer,2014,"30,000","Kanjhawala, North West Delhi, Delhi",2.0,30000.0,Basic
+TVS,NTORQ Super Squad Edition,2024,"88,000","Chennai, Tamil Nadu",1.0,17480.0,Premium
+Royal Enfield,Himalayan,2025,"3,50,000","Madurai, Tamil Nadu",1.0,9250.0,Premium
+TVS,Sport,2020,"25,000","Sikandrabad, Bulandshahr, Uttar Pradesh",1.0,49580.0,Premium
+TVS,Apache RTR 180,2018,"50,000",Karnataka,1.0,61600.0,Premium
+Honda,CB300R,2024,"2,50,000","Yelahanka, Bangalore, Karnataka",1.0,15300.0,Premium
+Honda,Hornet 2.0,2021,"60,000","Chinsurah, Hooghly, West Bengal",1.0,70000.0,Premium
+Bajaj,Pulsar 220F 2025,2025,"1,50,000","Chiplun, Ratnagiri, Maharashtra",1.0,23000.0,Premium
+SK,Bikes- Saathi Plus,2025,"99,000","Vasai-Virar, Palghar, Maharashtra",1.0,47.0,Premium
+TVS,Apache RTR 180,2017,"55,000","Pune, Maharashtra",1.0,26000.0,Premium
+Hero,Xtreme 125R,2024,"80,000","Bhilwara, Rajasthan",1.0,10000.0,Premium
+Harley,Davidson X440 S,2024,"2,70,000","Chhatrapati Sambhajinagar, Maharashtra",1.0,7000.0,Premium
+KTM,Duke 125,2020,"1,15,000","Vadodara, Gujarat",1.0,11140.0,Premium
+TVS,Apache RTR 160 4V,2018,"55,000","Thanjavur, Tamil Nadu",1.0,44500.0,Premium
+Honda,CB Unicorn 160,2017,"40,000","Electronic City, Bangalore, Karnataka",1.0,90500.0,Premium
+Royal Enfield,Goan Classic 350,2025,"2,45,000",Telangana,1.0,9900.0,Premium
+Royal Enfield,Classic 350 BS VI,2021,"2,05,000","Jalandhar, Punjab",1.0,5000.0,Premium
+TVS,Apache RTR 160 4V,2019,"76,000","Hyderabad, Telangana",1.0,22000.0,Premium
+Harley,Davidson Dyna FXDB Street Bob,2012,"5,95,000","Nagpur, Maharashtra",2.0,25000.0,Premium
+Suzuki,Access 125,2015,"12,000","Amberpet, Hyderabad, Telangana",1.0,31450.0,Premium
+Royal Enfield,Classic 350 2024,2024,"2,20,000","Moonak, Sangrur, Punjab",1.0,6000.0,Premium
+Yamaha,FZS 25,2017,"70,000","Erode, Tamil Nadu",1.0,48000.0,Basic
+Royal Enfield,Bullet Chrome emeralds green,2026,"2,40,000","Kalyan, Thane, Maharashtra",1.0,2800.0,Basic
+Honda,CB350 DLX Pro,2024,"2,00,000","Pondicherry, Pondicherry",1.0,8930.0,Basic
+Yamaha,FZ25,2018,"60,000","Ahmedabad, Gujarat",1.0,42000.0,Basic
+Honda,Activa,2013,"20,000","Ahmedabad, Gujarat",1.0,70000.0,Basic
+Honda,Hness Anniversary Edition,2022,"1,88,000","Hosur, Tamil Nadu",1.0,14330.0,Basic
+Suzuki,Samurai,1999,"75,000","Jhansi, Uttar Pradesh",1.0,22000.0,Basic
+Honda,CB350C DLX Pro Special Edition,2022,"1,30,000","Preet Vihar, East Delhi, Delhi",1.0,25000.0,Basic
+Royal Enfield,Classic Stealth Black,2020,"1,50,000","Greater Noida, Gautam Buddha Nagar, Uttar Pradesh",1.0,43000.0,Basic
+Yamaha,FZ-S,2013,"30,000","Jamnagar, Gujarat",1.0,35000.0,Basic
+Honda,Activa,2014,"39,000","Pimpri-Chinchwad, Pune, Maharashtra",1.0,47000.0,Basic
+Benling,Falcon Lithium Ion,2022,"15,000","Vadodara, Gujarat",1.0,,Basic
+Hero,Karizma XMR 2025,2025,"1,00,000","Gurgaon, Haryana",1.0,9000.0,Basic
+Bajaj,Pulsar N160,2023,,"Alwar, Rajasthan Finance Available View More Details",1.0,13000.0,Basic
+Suzuki,Access 125,2009,"14,000","Sholinganallur, Chennai, Tamil Nadu",2.0,11321.0,Basic
+Honda,Unicorn 160 BS6,2020,"72,000","Chinnamanur, Theni, Tamil Nadu",1.0,26500.0,Basic
+Hero,Glamour BS6,2022,"50,000","Purnia, Bihar",1.0,55000.0,Basic
+Hero,Splendor Plus XTEC 2.0,2026,"95,000","Jogeshwari, Mumbai, Maharashtra",1.0,200.0,Basic
+Bajaj,Platina 110,2019,"30,000","Pallavaram, Chengalpattu, Tamil Nadu",1.0,38000.0,Basic
+Royal Enfield,Himalayan,2018,"1,00,000","Surat, Gujarat",1.0,20000.0,Basic
+BMW,G 310 R,2024,"2,50,000","Noida, Gautam Buddha Nagar, Uttar Pradesh",1.0,9500.0,Premium
+Bajaj,Platina ComforTec 100 ES BS6,2024,"45,999","Indore, Madhya Pradesh",1.0,24000.0,Premium
+KTM,390 Adventure 2025,2025,"4,00,000","Jayanagar, Bangalore, Karnataka",1.0,11300.0,Premium
+Yamaha,FZ-S FI V3,2019,"65,000","Gurgaon, Haryana",1.0,15000.0,Premium
+Royal Enfield,Classic 350 BS VI,2024,"2,10,000","Raipur, Chhattisgarh",1.0,12000.0,Premium
+Hero,Duet 110,2016,"30,000","Pune, Maharashtra",1.0,42800.0,Premium
+Royal Enfield,Bullet 350 Twinspark,2015,"1,20,000","Visakhapatnam, Andhra Pradesh",1.0,20500.0,Premium
+Honda,Activa 125 BS6,2020,"60,000",Chandigarh,1.0,8200.0,Premium
+Honda,SP125,2022,"60,000","Dehradun, Utarakhand",1.0,5500.0,Premium
+Jawa,42 Dual Channel ABS AllStar Black,2025,"1,80,000","Marathahalli, Bangalore, Karnataka",1.0,650.0,Premium
+Ultraviolette,F77 Mach 2 Recon,2025,"3,25,000","Gurgaon, Haryana",1.0,1850.0,Premium
+Bajaj,V15,2016,"35,000","Hyderabad, Telangana",1.0,65000.0,Premium
+Royal Enfield,Classic 500,2015,"75,000","Gurgaon, Haryana",1.0,51000.0,Premium
+Royal Enfield,Hunter 350 2025,2025,"1,90,000","Hyderabad, Telangana",1.0,12640.0,Premium
+Bicycle,Kross,2019,"6,500","Punjabi Bagh, West Delhi, Delhi",1.0,,Premium
+Bajaj,Pulsar 150 Twin Disc BS6,2019,"55,000","Deoria, Uttar Pradesh",2.0,32000.0,Premium
+Triumph,Scrambler 400 X,2024,"2,40,000","Chennai, Tamil Nadu",1.0,15750.0,Premium
+Bicycle,Hero,2024,"15,000","Punjabi Bagh, West Delhi, Delhi",1.0,500.0,Premium
+Hero,Passion Pro i3s,2026,,"Hadapsar, Pune, Maharashtra Finance Available View More Details",1.0,2000.0,Premium
+Vespa,VX 125,2013,"80,000","Pimpri-Chinchwad, Maharashtra",1.0,36000.0,Premium
+Bajaj,Discover 150 F,2015,"25,000","Kanpur, Uttar Pradesh",1.0,38000.0,Basic
+Okinawa,Okhi 90,2022,"68,000","Nissing, Karnal, Haryana",1.0,42000.0,Basic
+Hero,Splendor iSmart 110,2017,"45,000","Nashik, Maharashtra",1.0,49000.0,Basic
+Hero,Splendor Plus IBS i3s,2022,"56,000","North East Delhi, Delhi",1.0,20000.0,Basic
+Royal Enfield,Hunter 350 2026,2026,"1,90,000","Pune, Maharashtra",1.0,2600.0,Basic
+Bajaj,Pulsar 180F Neon,2019,"55,000","Dadar, Mumbai, Maharashtra",1.0,37760.0,Basic
+Yamaha,FZ25,2017,"55,000","Pataudi, Gurgaon, Haryana",1.0,54000.0,Basic
+Suzuki,Access 125,2010,"15,000","Tirumalagiri, Hyderabad, Telangana",1.0,30000.0,Basic
+Honda,Activa 5G,2023,"80,000","Pimpri-Chinchwad, Maharashtra",1.0,,Basic
+Jawa,Perak BS6,2021,"1,20,000","Jaipur, Rajasthan",1.0,20000.0,Basic
+Bajaj,Pulsar 200 NS,2014,"47,000","Dehradun, Utarakhand",2.0,38000.0,Basic
+Triumph,Speed 400,2024,"2,00,000","Sarita Vihar, South East Delhi, Delhi",1.0,9000.0,Basic
+Royal Enfield,Bullet 350 ES,2023,"1,80,000","Mathura, Uttar Pradesh",1.0,12500.0,Basic
+TVS,Scooty Pep Plus,2019,"20,999","Hardoi, Uttar Pradesh",1.0,37000.0,Basic
+Bajaj,Avenger Street 220,2017,"45,000","Bhopal, Madhya Pradesh",,44813.0,Basic
+Royal Enfield,Meteor 350 Fireball,2021,"1,60,000","Kalanaur, Rohtak, Haryana",1.0,8100.0,Basic
+Yamaha,FZ-S FI Ver 4.0 DLX,2024,"1,16,000","Noida, Gautam Buddha Nagar, Uttar Pradesh",1.0,6283.0,Basic
+Royal Enfield,Hunter 350 Metro,2021,"60,000","Anantapur, Andhra Pradesh",1.0,15000.0,Basic
+Royal Enfield,Thunderbird 350,2017,"1,25,000","Kochi, Ernakulam, Kerala",1.0,6000.0,Basic
+Honda,Activa,2011,"20,000","Indiranagar, Bangalore, Karnataka",1.0,88646.0,Basic
+Royal Enfield,Thunderbird 350,2016,"80,000","Hebbal, Bangalore, Karnataka",1.0,45000.0,Premium
+Yamaha,FZ-S FI Hybrid,2025,"1,35,000","Mumbai, Maharashtra",1.0,1100.0,Premium
+Yezdi,Scrambler Dual Tone,2022,"2,20,000","Koramangala, Bangalore, Karnataka",1.0,6500.0,Premium
+Hero,Splendor iSmart,2023,"70,000","Pune, Maharashtra",1.0,11264.0,Premium
+Bajaj,Pulsar N160,2022,"1,09,000","Allahabad, Uttar Pradesh",1.0,30000.0,Premium
+Okinawa,R30,2022,"22,000","Electronic City, Bangalore, Karnataka",1.0,400.0,Premium
+Yamaha,YZF R15 V2,2016,"60,000","Pune, Maharashtra",1.0,34000.0,Premium
+Bicycle,Firefox,2026,"15,500","HSR Layout, Bangalore, Karnataka",1.0,,Premium
+TVS,Raider 125,2022,"71,000","Karaikudi, Sivaganga, Tamil Nadu",2.0,25000.0,Premium
+TVS,NTORQ 125 XT,2025,"99,999","T. Nagar, Chennai, Tamil Nadu",1.0,13000.0,Premium
+Honda,Activa 6G,2020,"45,000","Nampally, Hyderabad, Telangana",2.0,345000.0,Premium
+Honda,CB200X,2024,"1,50,000","Kolkata, West Bengal",1.0,10200.0,Premium
+TVS,Raider TFT DD 2026,,"98,000","Faridabad, Haryana",1.0,6000.0,Premium
+Bajaj,Avenger Cruise 220 BS6,2019,"76,000","Chennai, Tamil Nadu",1.0,53210.0,Premium
+Triumph,Speed 400,2024,"2,00,000","Lucknow, Uttar Pradesh",1.0,11800.0,Premium
+Hero,Xpulse 200 4V,2024,"1,05,000","Gurgaon, Haryana",1.0,2600.0,Premium
+Suzuki,Gixxer 150,2021,"1,15,000","Ahmednagar, Maharashtra",1.0,25500.0,Premium
+Honda,SP125,2016,"30,000",Orissa,1.0,90000.0,Premium
+Yamaha,Fascino,2018,"30,000","Thane, Maharashtra",2.0,27605.0,Premium
+Bajaj,Avenger 220 DTS-i,2021,"85,000","Borivali, Mumbai, Maharashtra",1.0,9000.0,Premium
+TVS,Scooty Pep,2014,"20,000","Navi Mumbai, Maharashtra",1.0,20000.0,Basic
+Royal Enfield,Thunderbird 500,2012,"50,000","Chembur, Mumbai, Maharashtra",1.0,18700.0,Basic
+TVS,Apache RTR 160 4V BS6,2026,"1,45,000","Jamshedpur, Jharkhand",1.0,609.0,Basic
+Jawa,Jawa BS6,2021,"1,00,000","BTM Layout, Bangalore, Karnataka",2.0,10400.0,Basic
+Bajaj,Avenger Cruise 220,2020,"1,00,000","Kozhikode, Kerala",1.0,19934.0,Basic
+Suzuki,GS 150R,2015,"35,000","Hiriyur, Chitradurga, Karnataka",1.0,70000.0,Basic
+TVS,NTORQ 125 Race Edition BS6,,"90,000","Navi Mumbai, Maharashtra",1.0,900.0,Basic
+Bajaj,Avenger Cruise 220 BS6,2017,"50,000","Marathahalli, Bangalore, Karnataka",1.0,40000.0,Basic
+Royal Enfield,Classic 350 Dual Channel BS6,,"2,00,000","Nagapattinam, Tamil Nadu",1.0,60000.0,Basic
+Bajaj,Pulsar NS 160,2018,"60,000","Chennai, Tamil Nadu",2.0,40000.0,Basic
+Bajaj,Pulsar 150,2011,"35,000","Raipur, Chhattisgarh",1.0,43000.0,Basic
+Honda,Activa,2012,"15,000","Visakhapatnam, Andhra Pradesh",1.0,30000.0,Basic
+TVS,Apache RTR 200 4V ABS,2021,"87,500","Bangalore, Karnataka",2.0,25700.0,Basic
+KTM,Duke 250,2021,"1,50,000","Chennai, Tamil Nadu",1.0,11800.0,Basic
+Hero,Glamour Xtec,2021,"62,000","Ichalkaranji, Kolhapur, Maharashtra",1.0,9500.0,Basic
+Royal Enfield,Classic 350 Dual Channel BS6,2020,"1,70,000","Thane, Maharashtra",2.0,17500.0,Basic
+Yamaha,R15M 2023,2023,"1,80,000","Satara, Maharashtra",1.0,30000.0,Basic
+Ola,S1 Pro Gen2,2023,"98,000","Bangalore, Karnataka",1.0,25250.0,Basic
+BMW,G 310 RR,2024,"2,80,000","New Delhi, Delhi",1.0,20000.0,Basic
+Hero,Destini 125 BS6,2023,"80,000","Mumbai, Maharashtra",1.0,11000.0,Basic
+Royal Enfield,Classic 350 Redditch Red,2017,"1,60,000","Jaipur, Rajasthan",1.0,55000.0,Premium
+Ola,S1 Pro Gen2,2024,"70,000","Bangalore, Karnataka",1.0,1800.0,Premium
+Vida,V1 Pro,2023,"99,000","Mumbai, Maharashtra",1.0,5491.0,Premium
+TVS,Apache RTR 200 4V ABS,2020,"75,000",Tamil Nadu,1.0,50500.0,Premium
+TVS,Raider 125,2024,"90,000","Kharar, Mohali, Punjab",1.0,6889.0,Premium
+Royal Enfield,Meteor 350 Stellar,2021,"1,70,000","Akola, Maharashtra",1.0,100000.0,Premium
+Bajaj,Pulsar 135LS,2015,"30,000","Kolkata, West Bengal",1.0,30000.0,Premium
+Ola,S1 Air 4kWh,2023,"70,000","Howrah, West Bengal",1.0,9518.0,Premium
+Ola,S1 Pro,2023,"65,000","Rajajinagar, Bangalore, Karnataka",1.0,13171.0,Premium
+Yamaha,FZ16,2013,"23,000","Patna, Bihar",1.0,20000.0,Premium
+Yamaha,FZ-S FI V2,2018,"45,000","Thane, Maharashtra",1.0,45000.0,Premium
+TVS,NTORQ 125 Race XP,2021,"74,999","Mudhol, Bagalkot, Karnataka",1.0,28800.0,Premium
+Yamaha,YZF R15 S,2019,"50,000","Kolkata, West Bengal",1.0,33671.0,Premium
+Bajaj,Pulsar N160,2023,"1,00,000","Charkhi Dadri, Haryana",1.0,1767.0,Premium
+Hero,Super Splendor,2013,"35,000","Hyderabad, Telangana",1.0,48671.0,Premium
+Royal Enfield,Bullet Standard 350,2016,"1,30,000","Shaikpet, Hyderabad, Telangana",1.0,85000.0,Premium
+TVS,NTORQ 125 Race XP,2023,"75,000","Greater Noida, Gautam Buddha Nagar, Uttar Pradesh",1.0,7000.0,Premium
+Kawasaki,Z900 ABS,2021,"8,00,000","New Delhi, Delhi",1.0,27000.0,Premium
+Honda,Shine 125,2024,"70,000","Noida, Uttar Pradesh",1.0,1300.0,Premium
+Ultraviolette,F77 SuperStreet,2025,"2,90,000","Rajkot, Gujarat",1.0,8400.0,Premium
+Royal Enfield,Thunderbird,2015,"1,05,000","Electronic City, Bangalore, Karnataka",1.0,30000.0,Basic
+Bajaj,Pulsar 220F BS6,2025,"1,20,000","Navi Mumbai, Maharashtra",1.0,3000.0,Basic
+Royal Enfield,Interceptor 650 Twin,2019,"2,35,000","Preet Vihar, East Delhi, Delhi",1.0,22000.0,Basic
+Harley,Davidson X440 S,2023,"2,40,000","Kolkata, West Bengal",1.0,14000.0,Basic
+Bajaj,Pulsar 150 Neon,2021,"60,000","East Delhi, Delhi",1.0,19000.0,Basic
+TVS,Apache RTR 160,2010,"25,000","Aluva, Ernakulam, Kerala",1.0,40000.0,Basic
+Jawa,Perak,2021,"1,50,000","Tapi, Gujarat",1.0,4000.0,Basic
+Suzuki,Access 125,2015,"28,000","Pimpri-Chinchwad, Pune, Maharashtra",1.0,30900.0,Basic
+Yamaha,R15 V4,2025,"1,70,000","Erode, Tamil Nadu",1.0,9500.0,Basic
+Bajaj,Avenger Street 150,,"75,000","Yelahanka, Bangalore, Karnataka",1.0,23000.0,Basic
+BMW,G 310 R,2018,"2,80,000","Anna Nagar, Chennai, Tamil Nadu",1.0,7250.0,Basic
+TVS,Ronin SS,2024,"1,15,000","Velachery, Chennai, Tamil Nadu",1.0,13500.0,Basic
+Hero,Super Splendor,2018,"22,000","Patna, Bihar",1.0,49000.0,Basic
+Franklin,EV Power Plus,2026,"45,000",Andhra Pradesh,1.0,1195.0,Basic
+Jawa,42 Dual Tone,2019,"1,00,000","Cuttack, Orissa",1.0,47000.0,Basic
+KTM,Duke 200,2016,"65,000","New Delhi, Delhi",1.0,33000.0,Basic
+BMW,G 310 R,2023,"2,80,000","Hyderabad, Telangana",1.0,14000.0,Basic
+KTM,Duke 200 2024,2024,"1,70,000","Kharagpur, Paschim Medinipur, West Bengal",1.0,8000.0,Basic
+Yamaha,FZ-S FI V2,2018,"53,000","KR Puram, Bangalore, Karnataka",1.0,10200.0,Basic
+Jawa,42 Dual Tone,2021,"1,15,000","Hoshiarpur, Punjab",1.0,10000.0,Basic
+TVS,Jupiter 125,2022,"65,000","Navi Mumbai, Maharashtra",1.0,45000.0,Premium
+Jawa,42 Dual Channel ABS Cosmic Carbon,2023,"1,50,000","Siddipet, Telangana",1.0,9200.0,Premium
+KTM,390 Adventure,2020,"2,40,000","Mumbai, Maharashtra",1.0,32400.0,Premium
+Bajaj,V15,2016,"30,000","Pune, Maharashtra",1.0,54000.0,Premium
+Bicycle,Road Giant,2026,"9,500","Kolkata, West Bengal",1.0,1.0,Premium
+Yamaha,R15 V4,2022,"1,50,000","Chennai, Tamil Nadu",1.0,6192.0,Premium
+Hero,Pleasure Plus BS6,2024,"85,000","Secunderabad, Hyderabad, Telangana",1.0,1260.0,Premium
+Hero,CBZ Xtreme,2012,"20,000","Bellandur, Bangalore, Karnataka",1.0,54000.0,Premium
+TVS,Apache RTR 160 4V,2018,"42,000","Ambattur, Chennai, Tamil Nadu",1.0,75000.0,Premium
+Triumph,Speed 400,2024,"2,20,000","Surat, Gujarat",1.0,13000.0,Premium
+Honda,Activa 125,2025,"90,000","Chennai, Tamil Nadu",1.0,1150.0,Premium
+TVS,Raider 125 Marvel Super Squad Edition,2024,"85,000","Pune, Maharashtra",1.0,16400.0,Premium
+Honda,Activa,2007,"10,000","Kalyan, Thane, Maharashtra",2.0,68000.0,Premium
+Suzuki,Gixxer 150,2016,"50,000","Greater Noida, Uttar Pradesh",1.0,10000.0,Premium
+Honda,CB200X,2024,"1,20,000","Kolkata, West Bengal",1.0,17000.0,Premium
+Honda,Dio 125,2020,"50,000","Mysore, Karnataka",1.0,5307.0,Premium
+Royal Enfield,Himalayan BS VI,2023,"1,50,000","Kolkata, West Bengal",1.0,16000.0,Premium
+TVS,Apache RTR 200 4V ABS,2019,"65,000","Mumbai, Maharashtra",1.0,25000.0,Premium
+TVS,NTORQ 125,2023,"75,000","Sholinganallur, Chennai, Tamil Nadu",1.0,8000.0,Premium
+Honda,CB350 DLX Pro,2022,"1,75,000","Bangalore, Karnataka",1.0,41035.0,Premium
+KTM,Duke 250,2018,"1,20,000","Kadapa, Andhra Pradesh",1.0,27000.0,Basic
+Bajaj,Pulsar 150 DTSi,2024,"75,000","New Delhi, Delhi",1.0,1600.0,Basic
+Hero,Xtreme 200R,2019,"48,000","Kolkata, West Bengal",1.0,40000.0,Basic
+TVS,Victor,2002,"15,000","Pune, Maharashtra",1.0,200000.0,Basic
+Bajaj,Pulsar 150 Twin Disc BS6,2021,"70,000","Malur, Kolar, Karnataka",1.0,54000.0,Basic
+Hero,Xtreme 160R,2025,"1,10,000",Karnataka,1.0,8200.0,Basic
+Yamaha,MT-15 BS6,2023,"1,30,000","Solapur, Maharashtra",1.0,67000.0,Basic
+Kinetic,Kinetic Honda,1995,"10,000","Sarjapur Road, Bangalore, Karnataka",1.0,,Basic
+TVS,Apache RR 310 2020,2020,,"Salem, Tamil Nadu Finance Available View More Details",1.0,16300.0,Basic
+TVS,Apache RTR 160,2018,"55,000","Bangalore, Karnataka",1.0,24000.0,Basic
+Ola,S1 Pro,2022,"76,000","Kothapeta, Dr BR Ambedkar Konaseema, Andhra Pradesh",1.0,46000.0,Basic
+Bajaj,Dominar 400 ABS BS6,2020,"1,60,000","North 24 Parganas, West Bengal",1.0,24208.0,Basic
+Bajaj,Pulsar N160 Dual Channel ABS,2023,"1,15,000","Kanpur Nagar, Uttar Pradesh",1.0,15000.0,Basic
+Hero,Xpulse 200 4V,2024,"1,40,000","Navi Mumbai, Maharashtra",1.0,3000.0,Basic
+Royal Enfield,Classic 350,2017,"1,20,000","Thrippunithura, Ernakulam, Kerala",1.0,,Basic
+Vespa,ZX 125,2019,"50,000","Coimbatore, Tamil Nadu",1.0,22500.0,Basic
+Honda,Activa 4G,2018,"50,000","Shaikpet, Hyderabad, Telangana",1.0,50000.0,Basic
+Honda,Activa 5G,2019,"41,000","Jodhpur, Rajasthan",1.0,33000.0,Basic
+Bajaj,Pulsar NS 200 BS6,2022,"1,20,000","Mandya, Karnataka",1.0,22000.0,Basic
+Yezdi,Adventure Gloss 2024,2024,"2,55,000","Shimoga, Karnataka",1.0,6000.0,Basic
+Bajaj,Pulsar 220 DTSi,2021,"80,000","Hebbal, Bangalore, Karnataka",1.0,63000.0,Premium
+Suzuki,Intruder 150,2019,"55,000","Mumbai, Maharashtra",1.0,10000.0,Premium
+Yamaha,FZ-S FI Ver 4.0,,"95,000","Mahabubnagar, Telangana",1.0,23000.0,Premium
+Royal Enfield,Thunderbird 350,2017,,"Hyderabad, Telangana Finance Available View More Details",1.0,13000.0,Premium
+Royal Enfield,Classic 350,2019,"1,35,000","Mumbai, Maharashtra",1.0,10000.0,Premium
+Yezdi,Roadster Dark,2022,"1,75,000","Ahmedabad, Gujarat",1.0,1450.0,Premium
+Royal Enfield,Thunderbird 350,2018,"1,30,000","Bangalore, Karnataka",1.0,26000.0,Premium
+Honda,CB Unicorn 160,2021,"95,000","Bangalore, Karnataka",1.0,10300.0,Premium
+Honda,Hornet 2.0,2021,"90,000","Burhar, Shahdol, Madhya Pradesh",1.0,43000.0,Premium
+Suzuki,Gixxer SF,2022,"98,000","Mumbai, Maharashtra",1.0,24650.0,Premium
+Yamaha,FZ-S FI V3,2019,"60,000","KR Puram, Bangalore, Karnataka",1.0,24424.0,Premium
+Royal Enfield,Thunderbird TwinSpark 350,2012,"80,000","Thane, Maharashtra",1.0,45000.0,Premium
+Honda,CB350 DLX,2024,"1,70,000","Noida, Uttar Pradesh",1.0,7950.0,Premium
+Ola,S1 Air,2024,"90,000","Bellandur, Bangalore, Karnataka",1.0,15000.0,Premium
+Royal Enfield,Thunderbird 350,2017,"1,20,000","Parel, Mumbai, Maharashtra",1.0,65000.0,Premium
+Bajaj,Avenger 220 DTS-i,2013,"53,000","Borivali, Mumbai, Maharashtra",1.0,28000.0,Premium
+TVS,Raider 125 Marvel Super Squad Edition,2024,"91,000","Visakhapatnam, Andhra Pradesh",1.0,25004.0,Premium
+Hero,Xpulse 200 4V,2025,"1,30,000","Pune, Maharashtra",1.0,5000.0,Premium
+Ampere,Magnus Ex,2022,"15,000","Howrah, West Bengal",1.0,26000.0,Premium
+Royal Enfield,Thunderbird 350,2016,"90,000","Hebbal, Bangalore, Karnataka",2.0,38774.0,Premium
+TVS,Apache RR 310,2019,"1,80,000","Trivandrum, Kerala",1.0,5800.0,Basic
+Royal Enfield,Bullet Standard 350,2008,"65,000","Bandra, Mumbai, Maharashtra",1.0,20000.0,Basic
+Bajaj,Pulsar 150,2017,"30,000","Yamuna Vihar, North East Delhi, Delhi",1.0,115000.0,Basic
+Yamaha,YZF R15 V3 BS6,2021,"1,00,000","Ameerpet, Hyderabad, Telangana",2.0,36000.0,Basic
+Hero,Passion Pro BS6,2023,"60,000","Hapur, Uttar Pradesh",1.0,24000.0,Basic
+TVS,NTORQ 125 Race Edition BS6,2020,"58,000","Alandur, Chennai, Tamil Nadu",1.0,22000.0,Basic
+TVS,Apache RTR 200 4V,2017,,"Coimbatore, Tamil Nadu Finance Available View More Details",1.0,40000.0,Basic
+KTM,Duke 250 2024,2024,"1,90,000","Ariyalur, Tamil Nadu",1.0,33000.0,Basic
+Honda,CBR 150R,2013,"60,000","Bangalore, Karnataka",1.0,99453.0,Basic
+Bajaj,Dominar 250,2020,"1,30,000","Rajajinagar, Bangalore, Karnataka",1.0,50000.0,Basic
+Bajaj,Discover 100 DTS-Si,2011,"20,000","Ahmedabad, Gujarat",1.0,42500.0,Basic
+Bajaj,Pulsar 150 DTSi,2023,"86,000","Nalbari, Assam",1.0,16800.0,Basic
+Bajaj,Pulsar F250,2023,"1,20,000","Bhopal, Madhya Pradesh",1.0,20000.0,Basic
+Ola,S1 Pro Gen2,2024,"95,000","Dharwad, Karnataka",1.0,26000.0,Basic
+TVS,Apache RTR 160 4V,2019,"90,000","Dharwad, Karnataka",1.0,9000.0,Basic
+Honda,Activa 6G Dlx,2024,"76,000","Noida, Uttar Pradesh",1.0,7594.0,Basic
+BMW,G 310 GS,2022,"2,75,000","Hosur, Tamil Nadu",1.0,5400.0,Basic
+Ola,S1 Pro Plus Gen 3 4kWh,2025,"1,10,000","Gopalpur, Ganjam, Orissa",1.0,11000.0,Basic
+Hero,XPulse 200,2021,"1,00,000","Greater Noida, Uttar Pradesh",1.0,19000.0,Basic
+Yamaha,MT-15 BS6,2022,"1,50,000","East Delhi, Delhi",1.0,38000.0,Basic
